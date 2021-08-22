@@ -1,6 +1,7 @@
 # IBM: Data Science Professional Certification
 
-<img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600">
+<img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="300" width="600"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="300" width="300">
+
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo 
